@@ -1,0 +1,39 @@
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Vally.exe.config
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Vally.exe
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Vally.pdb
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\ff-Adlm-GN\Vally.resources.dll
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle Math.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle_Math.FrmSumas.resources
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle_Math.FrmDivision.resources
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle_Math.FrmMultiplication.resources
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle_Math.FrmSubtraction.resources
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle_Math.FrmUser.resources
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle_Math.MainMenu.resources
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Vally.Properties.Resources.resources
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle_Math.MainMenu.ff-Adlm-GN.resources
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle Math.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Jungle Math.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\ff-Adlm-GN\Vally.resources.dll
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Vally.exe
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Vally.pdb
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Vally.exe.manifest
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Vally.application
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Vally.TrustInfo.xml
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Vally.exe.manifest
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\obj\Release\Vally.application
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\ScoreDB.txt
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\UsernameDB.txt
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Assets_Vally_BtnMin.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Assets_Vally_BtnClose.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Assets_Vally_Home.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\BtnAfterDiv.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\BtnAfterMult.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\BtnAfterRest.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\BtnAfterSums.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\BtnBeforeDiv.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\BtnBeforeMult.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\BtnBeforeRest.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\BtnBeforeSums.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Check Green.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Cross Red.png
+C:\Users\ferna\Desktop\Jungle Math\Jungle Math\bin\Release\Fonts\Fredoka-VariableFont_wdth,wght.ttf
