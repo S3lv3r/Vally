@@ -194,7 +194,7 @@ namespace Jungle_Math
             string Incorrect = "Cross Red.png";
             for (int i = 0; i < 10; i++)
             {
-                //Aqui Buscamos el Pic de la operacion
+                //Aqui Buscamos el Picture de la operacion
                 string PicOfTheOperation = "PicResultOperation_" + (i + 1);
                 Control[] controlspics = this.Controls.Find(PicOfTheOperation, true);
                 PictureBox PicOfResult = controlspics[0] as PictureBox;
